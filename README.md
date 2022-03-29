@@ -2,22 +2,25 @@
 
 ## Description
 
-The most popular game from the 1980s is back in action! This PacMen game is an example of JavaScript with multiple Pacmen being added to the screen. 
+The most popular game from the 1980s is back in action! In this project, the user can create multiple PacMen with the click of a button and each of them will begin to move about the browser window at their own pace. This PacMen game is an example of utilizing JavaScript to create the Pacmen by pushing them into an array and then injecting the PacMen to the web page via the DOM.
 
 The starter code was provided by MIT xPro.
 
 ## How to Run
 
-This is information someone would use to get started running your project on their machine.
+To create a PacMan, click on the "Add PacMan" button. The button will create a PacMan in various sizes in different areas of the browser window.
+
+To begin the game, click the "Start Game" button and the PacMen will move about the browser window at their own pace at random velocities.
+
+Additional PacMen can be created while the game is active by clicking the "Add PacMan" button.
 
 ## Roadmap of Future Improvements
 
-This should be a few sentences describing what you plan to work on next in this repository. 2. License information: This should include information about the MIT license.
+Future improvements will include creating a container to keep the PacMen within a container on the browser window and using the images, switching from Pacman's mouth opening to closing when moving from side to side on the x axis.
 
 ## Questions or Comments?
 
-Connect with me on Twitter at @KristineDugan <https://twitter.com/kristinedugan> or LinkedIn @KristineDugan <https://linkedin.com/in/kristinedugan>
-
+Connect with me on [Twitter] (https://twitter.com/kristinedugan) or [LinkedIn] (https://linkedin.com/in/kristinedugan).
 
 ## License Information
 
