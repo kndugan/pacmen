@@ -49,7 +49,7 @@ function makePac() {
 }
 
 function update() {
-  // loop over PacMen array and move each one and move image in DOM
+  // Loop over PacMen array and move each one and move image in DOM
   pacMen.forEach((item) => {
     checkCollisions(item);
     item.position.x += item.velocity.x;
@@ -76,7 +76,7 @@ function checkCollisions(item) {
 
 }
 
-// add a new PacMan
+// Add a new PacMan
 function makeOne() {
   pacMen.push(makePac()); 
 }
