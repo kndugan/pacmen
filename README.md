@@ -2,21 +2,21 @@
 
 ## Description
 
-The most popular game from the 1980s is back in action! In this project, the user can create multiple PacMen with the click of a button and each of them will begin to move about the browser window at their own pace. This PacMen game is an example of utilizing JavaScript to create the Pacmen by pushing them into an array and then injecting the PacMen to the web page via the DOM.
+The most popular game from the 1980s is back in action! In this project, the user can create multiple PacMen with the click of a button and each of them will begin to move about the browser window at their own pace. This PacMen game is an example of utilizing JavaScript to create the Pacmen by pushing them into an array and then injecting the PacMen to the web browser via the DOM.
 
 The starter code was provided by MIT xPro.
 
 ## How to Run
 
-To create a PacMan, click on the "Add PacMan" button. The button will create a PacMan in various sizes in different areas of the browser window.
+To create a PacMan, click on the **"Add PacMan"** button. The button will create a PacMan in various sizes in different areas of the browser.
 
-To begin the game, click the "Start Game" button and the PacMen will move about the browser window at their own pace at random velocities.
+To begin the game, click the **"Start Game"** button and the PacMen will move about the browser at their own pace at random velocities.
 
-Additional PacMen can be created while the game is active by clicking the "Add PacMan" button.
+Additional PacMen can be created while the game is active by clicking the **"Add PacMan"** button.
 
 ## Roadmap of Future Improvements
 
-Future improvements will include creating a container to keep the PacMen within a container on the browser window and using the images, switching from Pacman's mouth opening to closing when moving from side to side on the x axis.
+Future improvements will include creating an area to keep the PacMen within a container on the browser window and using the images, switching from Pacman's mouth opening to closing when moving from side to side on the x axis.
 
 ## Questions or Comments?
 
