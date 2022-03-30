@@ -4,6 +4,8 @@
 
 The most popular game from the 1980s is back in action! In this project, the user can create multiple PacMen with the click of a button and each of them will begin to move about the browser window at their own pace. This PacMen game is an example of utilizing JavaScript to create the Pacmen by pushing them into an array and then injecting the PacMen to the web browser via the DOM.
 
+<img src="https://static1.squarespace.com/static/5b75fc7ea9e028d726dbaaa5/t/6243b0ab028c2f47013b94f2/1648603307667/PacMen.png" width='400'/>
+
 The starter code was provided by MIT xPro.
 
 ## How to Run
