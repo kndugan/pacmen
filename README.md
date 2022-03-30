@@ -16,7 +16,9 @@ Additional PacMen can be created while the game is active by clicking the _"Add 
 
 ## Roadmap of Future Improvements
 
-Future improvements will include creating an area to keep the PacMen within a container on the browser window and using the images, switching from Pacman's mouth opening to closing when moving from side to side on the x axis.
+Future improvements will include creating an area to keep the PacMen within a container on the browser window.
+
+Also, using the extra images in the folder to switch PacMan's mouth to open then close while moving and rotating from PacMan's left to right side when bouncing off the edge of the container.
 
 ## Questions or Comments?
 
