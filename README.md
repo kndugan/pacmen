@@ -26,7 +26,7 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 
 ## License Information
 
-Some provided materials from the lecture videos and from assignment solutions are used in this project. Some implementations are derived from the provided materials of the course.
+Some provided materials from the lecture videos and from assignment solutions are used in this project. Some implementations are derived from the provided materials of MIT xPro's MERN Stack Bootcamp course.
 
 ### MIT License
 
