@@ -8,9 +8,9 @@ The starter code was provided by MIT xPro.
 
 ## How to Run
 
-To create a PacMan, click on the _"Add PacMan"_ button. The button will create a PacMan in various sizes in different areas of the browser.
+To create a PacMan, click on the _"Add PacMan"_ button. The button will create a PacMan in various sizes in different areas of the browser. The user can create unlimited PacMen.
 
-To begin the game, click the _"Start Game"_ button and the PacMen will move about the browser at their own pace at random velocities.
+To begin the game, click the _"Start Game"_ button and the PacMen will move about the browser at their own pace at random velocities. Every time the user clicks the _"Start Game"_ button, the PacMen will begin to move faster.
 
 Additional PacMen can be created while the game is active by clicking the _"Add PacMan"_ button.
 
