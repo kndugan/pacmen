@@ -28,6 +28,10 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 
 Some provided materials from the lecture videos and from assignment solutions are used in this project. Some implementations are derived from the provided materials of MIT xPro's MERN Stack Bootcamp course.
 
+### PacMan License
+
+PacMan is a licensed brand and trademark of BANDAI NAMCO Entertainment.
+
 ### MIT License
 
 Copyright (c) 2020 John Williams
